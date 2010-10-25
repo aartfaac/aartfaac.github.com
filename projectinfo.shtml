@@ -1,0 +1,23 @@
+<!--#set var="title" value="Front Page" -->
+<!--#include virtual="header.shtml"-->
+<div id="content">
+
+<h1>Project Information</h1>
+
+<p>
+  Further details of the AARTFAAC project will be available shortly.
+</p>
+
+<p>
+  Information and news regarding the LOFAR Telescope is available from <a
+  href="http://www.lofar.org">its web site</a>.
+</p>
+
+<p>
+  See the <a href="http://www.transientskp.org/">LOFAR Transients Key Science
+  Project</a> for details on searching for astronomical transients with LOFAR.
+</p>
+
+</div>
+
+<!--#include virtual="footer.shtml"-->

@@ -1,0 +1,24 @@
+<!--#set var="title" value="Front Page" -->
+<!--#include virtual="header.shtml"-->
+<div id="content">
+
+<h1>Project Staff</h1>
+
+<h2>Universiteit van Amsterdam</h2>
+
+<ul>
+  <li><strong><a href="http://www.astro.uva.nl/~rwijers/">Ralph Wijers</a></strong> (Principal Investigator)</li>
+</ul>
+
+<h2>ASTRON</h2>
+
+<ul>
+  <li><strong>Michael Wise</strong> (Co-Investgator)</li>
+  <li><strong>Marco de Vos</strong> (Managing Director)</li>
+  <li><strong>Andre Gunst</strong> (Digital Systems Engineer)</li>
+  <li><strong>Ronald Nijboer</strong> (Head of R&amp;D Software Group)</li>
+</ul>
+
+</div>
+
+<!--#include virtual="footer.shtml"-->

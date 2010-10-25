@@ -1,0 +1,53 @@
+<!--#set var="title" value="Front Page" -->
+<!--#include virtual="header.shtml"-->
+<div id="content" style="min-height: 480px;">
+
+<div style="float: right; padding-left: 15px;"><br />
+  <img src="media/logo-erc.jpg" /><br />
+  <img src="media/logo-nwo.jpg" /><br />
+  <img src="media/logo-astron.png" /><br />
+  <img src="media/logo-uva.png" /><br />
+  <img src="media/logo-grappa.png" /><br />
+</div>
+
+<h1>AARTFAAC</h1>
+
+<p>
+  Some of the most extreme tests of physical law come from its manifestations
+  in the behaviour of black holes and neutron stars, and as such these objects
+  should be used as fundamental physics labs. Due to advances in both
+  theoretical work and observational techniques, there is now a major
+  opportunity to significantly push this agenda forward and get better answers
+  to questions like: How are black holes born? How can energy be extracted
+  from black holes? What is the origin of magnetic fields and cosmic rays in
+  jets and shocks? Is their primary energy stream hadronic or magnetic?
+</p>
+
+<p>
+  The AARTFAAC (Amsterdam&mdash;ASTRON Radio Transients Facility and Analysis
+  Centre) Project will take advantage of the advent of wide-field radio
+  astronomy to exploit this opportunity. Extreme objects are very rare and
+  usually transient, so not only must one survey large areas of sky, but also
+  must one do this often. We will use the LOFAR wide-field radio telescope to
+  hunt for these extreme transients and systematically collect enough
+  well-documented examples of the behaviour of each type of transient.
+  Furthermore, we will expand LOFAR with a true 24/7 all-sky monitor to catch
+  and study even the rarest of events.
+</p>
+
+<p>
+  Next, we will conduct a vigorous multi-wavelength programme of study
+  of these objects, to constrain their physics from as many angles as
+  possible. This will eventually include results from multi-messenger
+  astrophysics, in which we use neutrinos, gravity waves, and other
+  non-electromagnetic messengers as extra diagnostics of the physics of
+  these sources. We will then develop a theoretical framework for these
+  phenomena and constrain the resulting models with the rich data sets
+  we obtain.
+</p>
+
+</div>
+
+</div>
+
+<!--#include virtual="footer.shtml"-->

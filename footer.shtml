@@ -1,0 +1,15 @@
+<!--#config timefmt="%d %B %Y" -->
+<div id="footer">
+
+<p>
+Page maintained by <a href="mailto:webmaster@aartfaac.org">AARTFAAC Webmaster</a>.<br />
+Last modified <!--#echo var="LAST_MODIFIED" -->.
+</p>
+
+</div>
+
+</div>
+
+</div>
+</body>
+</html>

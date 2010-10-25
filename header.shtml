@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Cantarell" />
+<link rel="stylesheet" type="text/css" href="media/aartfaac.css" media="screen" />
+<link rel="shortcut icon" href="media/lofar.ico" type="image/ico" />
+
+
+<title>AARTFAAC :: <!--#echo var="title"--></title>
+
+
+</head>
+
+<body>
+
+<div id="wholepage">
+
+<div id="header">
+  <div class="mainheader"><h1>AARTFAAC</h1>
+  <p>Amsterdam&mdash;ASTRON Radio Transients Facility and Analysis Centre</p></div>
+</div>
+
+<div id="sidecontainer">
+  <h2>AARTFAAC</h2>
+  <ul class="nav">
+    <li><a href="/">Home</a></li>
+    <li><a href="staff.shtml">Staff</a></li>
+    <li><a href="jobs.shtml">Job Opportunities</a></li>
+    <li><a href="projectinfo.shtml">Project Information</a></li>
+    <li><a href="collaborations.shtml">Collaborations</a></li>
+  </ul>
+  <h2>Related</h2>
+  <ul class="nav">
+    <li><a href="http://www.lofar.org/">LOFAR</a></li>
+    <li><a href="http://www.astron.nl/">ASTRON</a></li>
+    <li><a href="http://www.transientskp.org/">Transients Key Project</a></li>
+  </ul>
+</div>
+
+<div id="mainbody">

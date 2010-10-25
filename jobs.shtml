@@ -1,0 +1,156 @@
+<!--#set var="title" value="Front Page" -->
+<!--#include virtual="header.shtml"-->
+<div id="content">
+
+<h1>Job Opportunities</h1>
+
+<p>
+  The positions are largely funded by the European Research Council (ERC), and
+  will be based at the <a href="http://www.uva.nl/">University of
+  Amsterdam</a> (UvA) with regular stays at collaborating institutes, notably
+  <a href="http://www.astron.nl/">ASTRON</a> (the Netherlands Institute for
+  Radio Astronomy, located near Groningen). The PhD positions on algorithms
+  for fast streaming imaging in radio astronomy is funded by and based at
+  ASTRON (with regular stays at UvA).  The distribution of tasks over
+  positions and the timing of the hires is somewhat flexible and will depend
+  on the talent pool involved in the applications.
+</p>
+
+<p>
+  For the computing-oriented positions, experience with C++ and Python in a
+  Unix environment and experience/affinity with large-scale computing are a
+  must, as well as strong affinity with applications of software to
+  astrophysics. For the other positions, these computer skills are also quite
+  desirable.
+</p>
+
+<p>
+  Candidate PhD students should have a masters degree in (astro)physics or
+  appropriate area of computer science and need to send in two recommendation
+  letters, a CV, and a brief statement of research interests.
+</p>
+
+<p>
+  Candidate postdocs should have a PhD in astrophysics with demonstrable
+  skills in computing and/or high-energy astrophysics, and send three
+  recommendation letters, a CV, and statement of research interests. 
+</p>
+
+<p>
+  Candidate developers should send three recommendation letters, a CV, and
+  statement of research interests or motivation.
+</p>
+
+<p>
+  All applications and letters should be sent to <a
+  href="mailto:secr-astro-science@uva.nl">secr-astro-science@uva.nl</a>, with
+  subject 'AARTFAAC'. Applicants may either apply for a specific position
+  listed below, or apply more generally to participate in the project.
+  Evaluation of candidates will start immediately and continue until all
+  positions are filled.  Enquiries can be made with prof. Wijers, <a
+  href="mailto:R.A.M.J.Wijers@uva.nl">R.A.M.J.Wijers@uva.nl</a>.
+</p>
+
+<h2>Start in year 1 (around October 2010)</h2>
+
+<ul>
+  <li>
+    <strong>Senior Developer</strong><br />
+
+    <p>
+      Responsible for overall design of the software system and development of
+      some more challenging aspects of it. Co-supervisor of software-oriented
+      personnel. Responsible for at least one science area of the project, to
+      be determined in concert with overall project.  Required: PhD in
+      astrophysics or computer science, experience with large-scale computing
+      and pipelines, C++, Python.
+    </p>
+  </li>
+
+  <li>
+    <strong>Postdoc 1</strong><br />
+
+    <p>
+      Responsible for classification of radio transients into phenomenological
+      and astrophysical categories, and design and implement multi-wavelength
+      followup programs for them .
+    </p>
+  </li>
+
+  <li>
+    <strong>PhD Student 1</strong><br />
+
+    <p>
+      Responsible for study of radio temporal and spectral properties of
+      transients and some of their physical interpretation.
+    </p>
+  </li>
+
+  <li>
+    <strong>PhD Student 5</strong><br />
+
+    <p>
+      Responsible for working on the development of fast data analysis
+      software and algorithms with the ASTRON R&amp;D division in order to get
+      adequate radio data imaging from real-time streaming data.
+    </p>
+  </li>
+</ul>
+
+<h2>Start in year 2 (around September 2011)</h2>
+
+<ul>
+  <li>
+    <strong>Postdoc 2</strong><br />
+
+    <p>
+      Responsible for scientific commissioning and early scientific
+      exploitation of the AARTFAAC All-Sky Monitor.
+    </p>
+  </li>
+
+  <li>
+    <strong>PhD Student 2</strong><br />
+
+    <p>
+      Responsible for study of selected transients at other wavelengths or
+      messengers.
+    </p>
+  </li>
+
+  <li>
+    <strong>PhD Student 3</strong><br />
+
+    <p>
+      Responsible for exploiting AARTFAAC ASM data and assisting in the
+      scientific commissioning of the ASM.
+    </p>
+  </li>
+
+  <li>
+    <strong>PhD Student 4</strong><br />
+
+    <p>
+      Responsible for theoretical studies of selected transients on which
+      adequate datasets are collected, especially focusing on some known types
+      of transient such as GRBs and jet sources.
+    </p>
+  </li>
+</ul>
+
+<h2>Start in year 3 (around September 2012)</h2>
+
+<ul>
+  <li>
+    <strong>Postdoc 3</strong><br />
+
+    <p>
+      Responsible for theoretical studies of unknown and/or harder to model
+      types of transient sources.
+    </p>
+  </li>
+</ul>
+
+</div>
+
+<!--#include virtual="footer.shtml"-->
