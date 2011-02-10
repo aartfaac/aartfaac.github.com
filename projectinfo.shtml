@@ -1,4 +1,4 @@
-<!--#set var="title" value="Front Page" -->
+<!--#set var="title" value="Project Information" -->
 <!--#include virtual="header.shtml"-->
 <div id="content">
 
