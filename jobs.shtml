@@ -1,5 +1,16 @@
 <!--#set var="title" value="Jobs" -->
 <!--#include virtual="header.shtml"-->
+  <div id="main-menu">
+    <ul>
+      <li><a href="/">Front Page</a></li>
+      <li><a href="/staff.shtml">Staff</a></li>
+      <li><a class="selected" href="/jobs.shtml">Jobs</a></li>
+      <li><a href="/collaborations.shtml">Collaborations</a></li>
+      <li><a href="http://software.aartfaac.org/">Developers</a></li>
+    </ul>
+  </div>
+</div>
+
 <div id="content">
 
 <h1>Job Opportunities</h1>
