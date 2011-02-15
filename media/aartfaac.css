@@ -36,7 +36,7 @@ h1, h2, h3, h4 { font-family: "Trebuchet MS", Verdana, sans-serif}
 #header h2 { color: #fff; font-size: 120%; margin-top: 0pt; margin-bottom: 0pt; margin-left: 1em; padding: 2px 10px 1px 0px }
 
 #content { 
-  border-color: rgb(215,215,215);
+  border-color: rgb(215,215,215) rgb(187,187,187) rgb(187,187,187) rgb(187,187,187);
   border-style: solid;
   border-width: 1px;
   background-color: rgb(255,255,255);
