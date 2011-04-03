@@ -99,3 +99,6 @@ a:hover {
   text-decoration: underline;
 }
 
+p {
+  text-align: justify;
+}
