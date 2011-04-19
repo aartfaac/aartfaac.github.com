@@ -15,6 +15,9 @@
 
 <h1>Job Opportunities</h1>
 
+<p>There are no positions available at this time.</p>
+
+<!--
 <p>
   The positions are largely funded by the European Research Council (ERC), and
   will be based at the <a href="http://www.uva.nl/">University of
@@ -161,7 +164,7 @@
     </p>
   </li>
 </ul>
-
+-->
 </div>
 
 <!--#include virtual="footer.shtml"-->
