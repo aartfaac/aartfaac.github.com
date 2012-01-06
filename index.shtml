@@ -16,12 +16,43 @@
 
 <div id="content" style="min-height: 480px;">
 
-<div style="float: right; padding-left: 15px;"><br />
+<div style="float: left; padding-right: 15px;"><br />
   <img src="media/logo-erc.jpg" /><br />
   <img src="media/logo-nwo.jpg" /><br />
   <img src="media/logo-astron.png" /><br />
   <img src="media/logo-uva.png" /><br />
   <img src="media/logo-grappa.png" /><br />
+</div>
+
+<div style="float: right; padding-left: 15px;">
+<script src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'profile',
+  rpp: 4,
+  interval: 30000,
+  width: 250,
+  height: 300,
+  theme: {
+    shell: {
+      background: '#990000',
+      color: '#ffffff'
+    },
+    tweets: {
+      background: '#ffffff',
+      color: '#484848',
+      links: '#2f5685'
+    }
+  },
+  features: {
+    scrollbar: false,
+    loop: false,
+    live: false,
+    behavior: 'all'
+  }
+}).render().setUser('aartfaac').start();
+</script>
 </div>
 
 <p>
