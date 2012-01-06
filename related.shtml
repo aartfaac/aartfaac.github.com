@@ -1,0 +1,28 @@
+<!--#set var="title" value="Front Page" -->
+<!--#include virtual="header.shtml"-->
+
+  <div id="main-menu">
+    <ul>
+      <li><a href="/">Front Page</a></li>
+      <li><a href="/team.shtml">Team</a></li>
+      <li><a href="/jobs.shtml">Jobs</a></li>
+      <li><a href="/collaborations.shtml">Collaborations</a></li>
+      <li><a class="selected">Related</a></li>
+      <li><a href="http://software.aartfaac.org/">Developers</a></li>
+    </ul>
+  </div>
+</div>
+
+<div id="content" style="min-height: 480px;">
+
+<h1>Related Projects</h1>
+
+<ul>
+  <li><a href="http://www.lofar.org/">LOFAR</a></li>
+  <li><a href="http://www.astron.nl/">ASTRON</a></li>
+  <li><a href="http://www.transientskp.org/">Transients Key Project</a></li>
+</ul>
+
+</div>
+
+<!--#include virtual="footer.shtml"-->

@@ -7,6 +7,7 @@
       <li><a class="selected" href="/team.shtml">Team</a></li>
       <li><a href="/jobs.shtml">Jobs</a></li>
       <li><a href="/collaborations.shtml">Collaborations</a></li>
+      <li><a href="/related.shtml">Related</a></li>
       <li><a href="http://software.aartfaac.org/">Developers</a></li>
     </ul>
   </div>
@@ -16,21 +17,26 @@
 
 <h1>Project Team</h1>
 
-<h2>Universiteit van Amsterdam</h2>
+<h2>University of Amsterdam</h2>
 
 <ul>
-  <li><strong><a href="http://www.astro.uva.nl/~rwijers/">Ralph Wijers</a></strong> (Principal Investigator)</li>
+  <li><strong>Dario Carbone</strong></li>
+  <li><strong>Yvette Cendes</strong></li>
+  <li><strong>Alexander van der Horst</strong></li>
+  <li><strong>Antonia Rowlinson</strong></li>
+  <li><strong>Peeyush Prasad</strong></li>
   <li><strong>John Swinbank</strong> (Software Project Manager)</li>
-  <li><strong>Lars B&auml;hren</strong> (PhD Student)</li>
+  <li><strong><a href="http://www.astro.uva.nl/~rwijers/">Ralph Wijers</a></strong> (Principal Investigator)</li>
 </ul>
 
 <h2>ASTRON</h2>
 
 <ul>
-  <li><strong>Michael Wise</strong> (Co-Investgator)</li>
-  <li><strong>Marco de Vos</strong> (Managing Director)</li>
-  <li><strong>Andre Gunst</strong> (Digital Systems Engineer)</li>
-  <li><strong>Ronald Nijboer</strong> (Head of R&amp;D Software Group)</li>
+  <li><strong>Andre Gunst</strong> (Hardware Project Manager)</li>
+  <li><strong>Ronald Nijboer</strong></li>
+  <li><strong>Marco de Vos</strong></li>
+  <li><strong>Stefan Wijnholds</strong></li>
+  <li><strong>Michael Wise</strong></li>
 </ul>
 
 <h2>University of Oxford</h2>

@@ -7,6 +7,7 @@
       <li><a href="/team.shtml">Team</a></li>
       <li><a href="/jobs.shtml">Jobs</a></li>
       <li><a href="/collaborations.shtml">Collaborations</a></li>
+      <li><a href="/related.shtml">Related</a></li>
       <li><a href="http://software.aartfaac.org/">Developers</a></li>
     </ul>
   </div>
@@ -21,8 +22,6 @@
   <img src="media/logo-uva.png" /><br />
   <img src="media/logo-grappa.png" /><br />
 </div>
-
-<h1>AARTFAAC</h1>
 
 <p>
   Some of the most extreme tests of physical law come from its manifestations
