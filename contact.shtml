@@ -7,8 +7,8 @@
       <li><a href="/team.shtml">Team</a></li>
       <li><a href="/jobs.shtml">Jobs</a></li>
       <li><a href="/collaborations.shtml">Collaborations</a></li>
-      <li><a class="selected">Related</a></li>
-      <li><a href="/contact.shtml">Contact</a></li>
+      <li><a class="/related.shtml">Related</a></li>
+      <li><a class="selected">Contact</a></li>
       <li><a href="http://software.aartfaac.org/">Developers</a></li>
     </ul>
   </div>
@@ -16,13 +16,14 @@
 
 <div id="content" style="min-height: 480px;">
 
-<h1>Related Projects</h1>
+<h1>Contact Details</h1>
 
-<ul>
-  <li><a href="http://www.lofar.org/">LOFAR</a></li>
-  <li><a href="http://www.astron.nl/">ASTRON</a></li>
-  <li><a href="http://www.transientskp.org/">Transients Key Project</a></li>
-</ul>
+<p>
+AARTFAAC is based at the <a href="http://www.astro.uva.nl/">Astronomical
+Institute &quot;Anton Pannekoek&quot;</a> of the <a
+href="http://www.uva.nl/">University of Amsterdam</a>.  General enquiries may
+be directed to <a href="mailto:info@aartfaac.org">info@aartfaac.org</a>.
+</p>
 
 </div>
 
