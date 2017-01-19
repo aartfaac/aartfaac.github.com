@@ -1,0 +1,16 @@
+Title: Multi wavelength follow-up with AARTFAAC
+
+Abstract:
+
+Two classes of transients have recently attracted top interest for their extreme
+physics,  energy, variability,  and  association with  black  holes and  compact
+stars: fast  radio bursts  (FRBs) and gravitational  waves (GWs).   Our research
+group, mostly from INAF, includes scientists with a wide range of competences in
+multiwavelength data management, analysis  and interpretation.  We have approved
+programs for  follow-up observations of candidate  FRB and GW events  at several
+telescopes worldwide.
+
+In the  talk I will briefly  present our observational strategies,  some results
+and how AARTFAAC may  be involved in the search and  follow-up monitoring of the
+mentioned  two  classes  of  transient  sources,  and  the  reciprocal  benefits
+resulting from this cooperation.
