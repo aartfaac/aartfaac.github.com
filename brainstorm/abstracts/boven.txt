@@ -1,0 +1,15 @@
+Title   : Observing Meteor Scatter with AARTFAAC
+Abstract: 
+Meteors entering our atmosphere leave an ionization trail that is not only
+visible, but reflects radio waves quite well. The detection is done by
+monitoring radio broadcasts from transmitters that are normally well below the
+horizon for the receiver. These transmitters can be broadcast services such as
+e.g. the (increasingly rare) analog TV transmitters. The BRAMS (Belgian RAdio
+Meteor Stations) transmitters are especially interesting to monitor as their
+frequency of apx 50MHz falls within the frequency range of AARTFAAC. Unlike most
+other applications, the requirement here is for simultaneously high frequency
+and time resolution. However, as the band of interest is only about 100Hz wide,
+the resources required to transport and process the data of interest are
+actually very modest. Meteor scatter observing with AARTFAAC would create a
+system that is not only very sensitive to these reflections, but can also
+resolve them in direction and elevation, and possibly even their distance.

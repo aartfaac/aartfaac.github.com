@@ -1,0 +1,20 @@
+Title   : Recovering the largest spatial scales with LOFAR
+Abstract: 
+The Milky Way is a prime target for LOFAR. Most, about 80 percent, of its
+diffuse synchrotron emission at LOFAR wavelengths is emitted on scales larger
+than 5 lambda. This corresponds to 5x6=30m at 50 MHz and 5x2=10m at 150 MHz. The
+smallest baselines for the LOFAR stations are about 40m. This means that
+standard interferometric observations do not recover the bulk of the diffuse
+Milky Way flux. One way of obtaining information about this diffuse flux is to
+use LOFAR in tied-array mode (i.e. single dish-like). However, this mode is very
+difficult to calibrate in the absolute sense and this would require an extended
+observing campaign. AARTFAAC may offer an intriguing alternative, as its
+observes the entire sky (in LBA) instantaneously. Given that AARTFAAC has
+overlapping UV coverage with interferometric LOFAR observations we should, in
+principle, be able to calibrate AARTFAAC and thus the diffuse Milky Way flux in
+the absolute sense. If possible, these observations would be extremely useful
+for a variety scientif topics related our own Galaxy, such as its spectral index
+at low frequencies, free-free absorption of HII regions, and if sufficient
+spectral resolution can be obtained then Galactic recombination lines can be
+observed and mapped very efficiently thereby providing a new view on the cold
+neutral medium.

@@ -1,0 +1,11 @@
+Title   : Ionospheric Scintillation with All-Sky Imaging
+Abstract: 
+Scintillation due to the ionosphere is visible at all times on A-team sources at
+LOFAR LBA frequencies.  This is easily visible on Cassiopeia-A and Cygnus-A in
+all-sky imaging, even when using a single remote station, and manifests itself
+as rapid variability in the source intensity and movement of the source around a
+central position due to phase changes introduced to the incoming signal by
+refraction through large-scale density structures in the ionosphere.  In this
+talk, I will summarise my work with scintillation work with all-sky imaging with
+the KAIRA station in northern Finland and hence what would be required in terms
+of data products to achieve the same measurements with AARTFAAC.
