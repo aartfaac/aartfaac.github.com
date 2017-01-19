@@ -1,0 +1,10 @@
+Title   :NenuFAR and AARTFAAC
+P. Zarka & A. Loh
+
+Abstract:
+
+We will briefly  summarize NenuFAR’s concept and development status,  as well as
+first thoughts on its possible use  in coordination with AARTFAAC. The detection
+domain  of  coherent  radio  counterparts  of gravitational  wave  events  is  a
+particularly  interesting  topic,  although   follow-up  observations  of  other
+transients will also be relevant and deserve coordination.

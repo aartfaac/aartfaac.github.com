@@ -1,0 +1,10 @@
+Title:
+AARTFAAC Software Architecture, Data Products and Roadmap
+
+Abstract:
+
+In this  talk I will  give an  overview of our  current data products  and their
+extraction points within the pipelines. And how additional extraction points can
+be implemented  into our  existing pipelines.  As such I  will elaborate  on our
+calibration,  imaging  pipeline architecture  and  overall  control system  that
+activates aartfaac during a LOFAR observation.
