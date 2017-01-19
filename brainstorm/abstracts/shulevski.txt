@@ -1,39 +1,40 @@
 Title   :  ARTSY: the AARTFAAC Radio Continuum Survey
 Abstract: 
-We propose to use the output of the normal operations of AARTFAAC to produce an
-all sky continuum survey. We plan to map several bands spanning the LOFAR LBA
+
+We propose to use the output of  the normal operations of AARTFAAC to produce an
+all sky continuum  survey. We plan to  map several bands spanning  the LOFAR LBA
 (if feasible) and HBA bandwidth (8 sub-bands per band, roughly equal to the MSSS
 output).
 
-We aim to investigate the spectral properties of the Galaxy and the
-extragalactic source population using the output form the survey  as well as
-extend the analysis using other similar surveys (eg. Haslam 408 MHz, WMAP,
-Planck). These studies will be instrumental in discovering how the spectral
-index of the Galactic synchrotron radiation behaves at the lowest frequencies,
-and possibly will enable us to discover regions of extremely old Galactic
+We  aim  to   investigate  the  spectral  properties  of  the   Galaxy  and  the
+extragalactic source  population using  the output  form the  survey as  well as
+extend  the analysis  using other  similar surveys  (eg. Haslam  408 MHz,  WMAP,
+Planck).  These studies  will be  instrumental in  discovering how  the spectral
+index of the  Galactic synchrotron radiation behaves at  the lowest frequencies,
+and  possibly will  enable  us to  discover regions  of  extremely old  Galactic
 plasma, visible only at very low frequencies. Galactic foregrounds can be better
-modeled using the maps which this survey will provide. The survey can help in
-constraining the properties of electron cosmic rays accelerated by the Galaxy
-and infer their energy distributions. It will also be useful in studying
-galactic supernova remnants as well as HII regions where they are optically
+modeled using the  maps which this survey  will provide. The survey  can help in
+constraining the  properties of electron  cosmic rays accelerated by  the Galaxy
+and  infer their  energy  distributions.  It will  also  be  useful in  studying
+galactic supernova  remnants as  well as  HII regions  where they  are optically
 thick to synchrotron emission. Depending on the robustness of the calibration, a
-possibility exists that we can also produce polarization maps of the sky, in
+possibility exists  that we can  also produce polarization  maps of the  sky, in
 which case we can start exploring the magnetic universe.
 
-AARTFAAC has a demonstrated ability to generate high cadence all sky maps. We
-will average those data in time and frequency and produce our maps. We will be
-confusion limited (8 Jy at 60 MHz, Prasad & Wijnholds, 2012) and have a
-resolution of about 1 degree at 60 MHz. This is comparable resolution to the
+AARTFAAC has  a demonstrated ability to  generate high cadence all  sky maps. We
+will average those data  in time and frequency and produce our  maps. We will be
+confusion  limited (8  Jy  at 60  MHz,  Prasad  & Wijnholds,  2012)  and have  a
+resolution of  about 1 degree  at 60 MHz. This  is comparable resolution  to the
 Haslam 408 MHz survey.
 
-Absolute calibration of the data and comparison to older surveys will present a
+Absolute calibration of the data and  comparison to older surveys will present a
 challenge. However, our HBA band overlaps with the MWA band, and we will overlap
-in sky coverage. We can use the MWA survey (GLEAM) to validate our calibration
-and tie it to theirs. Also, a cooperation is needed to produce a true all sky
+in sky coverage. We  can use the MWA survey (GLEAM)  to validate our calibration
+and tie it  to theirs. Also, a cooperation  is needed to produce a  true all sky
 survey in the HBA."
 
-An aside: I may devote 5 minutes talking about a real-time transient detection
-pipeline using the AO flagger statistics. I have tested an initial version of
-the algorithm on MSSS archival data and the results are encouraging. A
+An aside: I  may devote 5 minutes talking about  a real-time transient detection
+pipeline using  the AO flagger statistics.  I have tested an  initial version of
+the  algorithm  on  MSSS  archival  data and  the  results  are  encouraging.  A
 possibility to adapt it to AARTFAAC data exists and should be explored.
 
