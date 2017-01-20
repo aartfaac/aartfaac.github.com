@@ -1,0 +1,19 @@
+Title   : All-sky imaging using spherical interferometry with AARTFAAC examples
+
+Tobia Carozzi
+Onsala Space Observatory
+Sweden
+
+Abstract :
+
+One of  amazing features of  low frequency radio  telescopes, such as  LOFAR, is
+their ability  to image very wide  fields-of-view. Indeed LOFAR LBA  can see the
+entire celestial hemisphere.  In the past this has been  done using the standard
+cartesian   Fourier  transform   interpretation  of   interferometry.  Basically
+cartesian  Fourier  transforms map  2D  visiblities  onto  a flat  (rather  than
+spherical  sky). To  build up  larger images  on the  celestial sphere  requires
+mosiacing  and  deal  with   3D  (w-component  visibilities)  require  w-project
+techniques. Here I will introduce alternative approach to interferometry, namely
+spherical interferomety. It provides a natural way of dealing with the celestial
+sphere and with fully  3D uvw samples. I will then show examples  of it's use on
+LOFAR LBA data, including recent AARTFAAC data.
