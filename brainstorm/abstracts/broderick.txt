@@ -1,0 +1,12 @@
+Title   : Wide-field transient science with MANTIS 
+
+Abstract:
+
+I will give an overview of  'MANTIS', the Mid-Frequency Aperture Array Transient
+and  Intensity-Mapping  System,  which  is   the  proposed  pathfinder  for  the
+mid-frequency aperture array  component of the full SKA. With  collecting area >
+1000 m^2,  and a  very large  field of  view (>100  deg^2), there  are excellent
+opportunities for  transient science at  frequencies around 1 GHz.  Engaging the
+community in  the design  process is  vital, and  we would  like to  discuss the
+feasibility,  and indeed  interest  for AARTFAAC-like  observing  modes on  this
+telescope.

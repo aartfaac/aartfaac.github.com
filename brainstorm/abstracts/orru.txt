@@ -1,0 +1,8 @@
+Title    : Monitoring tool of the Radio Observatory. 
+
+Abstract :
+
+In this talk I will describe the tools adopted for monitoring the system and the
+data quality by the  Radio Observatory. This talk is meant  to open a discussion
+on  how AARTFAAC  could become  part of  the monitoring  chain beside  providing
+excellent science.
