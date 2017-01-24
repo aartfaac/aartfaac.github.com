@@ -1,0 +1,9 @@
+Title: The Transient Pipeline (TraP) and AARTFAAC
+
+Abstract:
+
+This talk will  give an overview of the LOFAR  Transients Pipeline (TraP), which
+we use to  automatically process AARTFAAC images  in close to real  time. I will
+highlight  the  new features  developed  for  AARTFAAC  and key  data  products.
+Finally,  I  will   describe  our  future  development   plans  including  speed
+improvements, alerts and triggering capabilities.
