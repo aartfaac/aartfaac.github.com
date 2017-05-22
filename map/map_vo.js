@@ -57,35 +57,35 @@ mapTypes['halpha'] = {
 	credit: 'Image Credit: SDSS, DSS Consortium, NASA/ESA/STScI'
 }; 
 
-mapTypes['lwa38'] = {
-	getTileUrl: function(coord, zoom) {
-		return getHorizontallyRepeatingTileUrl(coord, zoom, function(coord, zoom) {
-	  		return "/tiles/lwa38/" + zoom + "/lwa38_" + zoom + "_" + coord.x + "_" + coord.y + ".png";
-		});
-	},
-	tileSize: new google.maps.Size(256, 256),
-	isPng: true,
-	maxZoom: 6,
-	radius: 57.2957763671875,
-	name: 'LWA1 @ 38 MHz',
-	credit: 'Image Credit: LWA1'
-};
+//mapTypes['AARTFAAC 38'] = {
+//	getTileUrl: function(coord, zoom) {
+//		return getHorizontallyRepeatingTileUrl(coord, zoom, function(coord, zoom) {
+//	  		return "/tiles/lwa38/" + zoom + "/lwa38_" + zoom + "_" + coord.x + "_" + coord.y + ".png";
+//		});
+//	},
+//	tileSize: new google.maps.Size(256, 256),
+//	isPng: true,
+//	maxZoom: 6,
+//	radius: 57.2957763671875,
+//	name: 'AARTFAAC @ 38 MHz',
+//	credit: 'Image Credit: AARTFAAC.org'
+//};
 
-mapTypes['lwa60'] = {
-	getTileUrl: function(coord, zoom) {
-		return getHorizontallyRepeatingTileUrl(coord, zoom, function(coord, zoom) {
-	  		return "/tiles/lwa60/" + zoom + "/lwa60_" + zoom + "_" + coord.x + "_" + coord.y + ".png";
-		});
-	},
-	tileSize: new google.maps.Size(256, 256),
-	isPng: true,
-	maxZoom: 6,
-	radius: 57.2957763671875,
-	name: 'LWA1 @ 60 MHz',
-	credit: 'Image Credit: LWA1'
-};
+//mapTypes['lwa60'] = {
+//	getTileUrl: function(coord, zoom) {
+//		return getHorizontallyRepeatingTileUrl(coord, zoom, function(coord, zoom) {
+//	  		return "/tiles/lwa60/" + zoom + "/lwa60_" + zoom + "_" + coord.x + "_" + coord.y + ".png";
+//		});
+//	},
+//	tileSize: new google.maps.Size(256, 256),
+//	isPng: true,
+//	maxZoom: 6,
+//	radius: 57.2957763671875,
+//	name: 'LWA1 @ 60 MHz',
+//	credit: 'Image Credit: LWA1'
+//};
 
-mapTypes['lwa74'] = {
+mapTypes['AARTFAAC 60'] = {
 	getTileUrl: function(coord, zoom) {
 		return getHorizontallyRepeatingTileUrl(coord, zoom, function(coord, zoom) {
 	  		return "/tiles/lwa74/" + zoom + "/lwa74_" + zoom + "_" + coord.x + "_" + coord.y + ".png";
@@ -95,8 +95,8 @@ mapTypes['lwa74'] = {
 	isPng: true,
 	maxZoom: 6,
 	radius: 57.2957763671875,
-	name: 'LWA1 @ 74 MHz',
-	credit: 'Image Credit: LWA1'
+	name: 'AARTFAAC @ 60 MHz',
+	credit: 'Image Credit: AARTFAAC.org'
 };
 
 mapTypes['fermi4'] = {
@@ -184,9 +184,9 @@ function initialize() {
 	// start with the sky map type
 	map.setMapTypeId('sky');
 
-	addOverlay('lwa38')
-	addOverlay('lwa60')
-	addOverlay('lwa74')
+//	addOverlay('lwa38')
+//	addOverlay('lwa60')
+	addOverlay('AARTFAAC 60')
 	addOverlay('nvss')
 	addOverlay('fermi4')
 
