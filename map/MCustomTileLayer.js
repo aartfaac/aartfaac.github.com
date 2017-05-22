@@ -66,7 +66,7 @@ MCustomTileLayer.prototype.getTile = function(p, z, ownerDocument) {
 MCustomTileLayer.prototype.getTileUrl = function(p,z) {
 	theme = this.theme;
 	return getHorizontallyRepeatingCustomTileUrl(theme, p, z, function(theme,p,z) {
-		return '/tiles/' + 'lwa74' + '/' + z + '/' + theme + "_" + z + "_" + p.x + '_' + p.y +  '.png';
+		return '/tiles/' + 'lwa74' + '/' + z + '/' + 'lwa74' + "_" + z + "_" + p.x + '_' + p.y +  '.png';
 	});
 	//return '/tiles/' + theme + '/' + z + '/' + theme + "_" + z + "_" + p.x + '_' + p.y +  '.png';
 }
