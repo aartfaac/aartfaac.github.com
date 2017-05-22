@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>AARTFAAC sky at 60MHz</title>
+        <meta charset="utf-8">
+        <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+        <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+        <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+        <style>
+            body {
+                color: #fff;
+                background-color: #000;
+                margin: 0px;
+                padding: 0px;
+                overflow: hidden;
+                font-family: sans-serif;
+                font-size: 13px;
+            }
+
+            a:link, a:visited { text-decoration: none; color: blue; }
+            a:hover { text-decoration: underline; }
+
+            #heading {
+                position: absolute;
+                top: 1px;
+            }
+
+            #load {
+                position: absolute;
+                font-size: 11px;
+                color: #e88;
+                top: 7px;
+                left: 7px;
+            }
+
+            #thanks {
+                position: absolute;
+                font-size: 11px;
+                color: #888;
+                bottom: 90px;
+                left: 15px;
+            }
+
+            #toggle {
+                position: absolute;
+                font-size: 11px;
+                color: #888;
+                bottom: 65px;
+                left: 15px;
+            }
+
+            #channel {
+                position: absolute;
+                font-size: 11px;
+                color: #888;
+                bottom: 40px;
+                left: 15px;
+            }
+
+            .descr {
+                display: inline-block;
+                width: 75px;
+            }
+
+            .switch {
+                font-weight: bold;
+                margin: 2px;
+                padding: 2px;
+                border: 1px solid #444;
+                cursor: pointer;
+            }
+
+            .switch:hover {
+                background-color: #333;
+            }
+
+            .switch.active {
+                color: white;
+                background-color: #888;
+            }
+
+            #aboutlink {
+                position: absolute;
+                font-size: 11px;
+                color: blue;
+                bottom: 15px;
+                right: 15px;
+                cursor: pointer;
+            }
+
+            #aboutlink:hover {
+                text-decoration: underline;
+            }
+
+            #about {
+                display: none;
+                position: absolute;
+                font-size: 11px;
+                color: #888;
+                bottom: 35px;
+                right: 15px;
+                width: 400px;
+                height: 310px;
+                border: 2px solid #888;
+                background-color: #fff;
+                color: black;
+                padding: 1em;
+            }
+
+            #about h1 {
+                margin-top: 5px;
+                font-size: 16px;
+                font-weight: bold;
+            }
+
+            #about p {
+                font-size: 12px;
+            }
+
+            #cmbstatic {
+                z-index: -10;
+                position: absolute;
+                left: 50%;
+                margin-left: -250px;
+                margin-top: 50px;
+            }
+
+            #coord {
+                position: absolute;
+                display: block;
+                width: 150px;
+                top: 7px;
+                right: 7px;
+                font-size: 11px;
+                color: #888;
+            }
+
+            #canvas2D{
+                background-color: transparent;
+                position: absolute;
+                left: 0;
+                top: 0;
+                z-index: 2;
+            }
+
+        </style>
+    </head>
+    <body>
+
+        <script src="jquery-1.8.3.min.js"></script>
+        <script src="jquery.mousewheel.min.js"></script>
+        <script src="mousetrap.min.js"></script>
+        <script src="three.min.js"></script>
+        <script src="Detector.js"></script>
+
+        <script src="main.js"></script>
+
+        <h1 id="heading">AARTFAAC sky</h1>
+
+        <div id="thanks">Data from the <a target="blank" href="http://lwa.unm.edu">LWA1 URO</a></div>
+        <div id="toggle"><span class="descr">Toggle plane:</span> <span class="switch equatorial">equatorial</span> <span class="switch galactic">galactic</span> <span class="switch labels">labels</span> <span class="switch xhair">crosshair</span></div>
+        <div id="channel"><span class="descr">Frequency:</span> <span class="switch">38</span> <span class="switch">60</span> <span class="switch lfs">74</span> MHz</div>
+        <div id="coord"></div>
+	<canvas id="canvas2D" width="500" height="500"></canvas>
+        <!--div id="load">Server is experiencing high load, please be patient!</div-->
+
+        <div id="aboutlink"> Information </div>
+        <div id="about">
+            <h1>AARTFAAC sky</h1>
+
+            <p>
+            You can use your mouse to control the view: click-drag will change the right ascension/decliation, double click zooms in, and mouse scroll-wheel zooms in and out.
+            </p>
+
+            <p>
+            The following key bindings are also available: left, right, up, down (scroll the view), +, - (zoom), r (reset view).
+            </p>
+
+            <p>
+            The raw data is tiled over a <a href="http://healpix.jpl.nasa.gov/">sphere</a>
+            using <a href="http://healpix.jpl.nasa.gov/html/intronode4.htm">this scheme</a>.
+            WebGL and the <a href="http://mrdoob.github.com/three.js/">three.js</a> library are used for rendering.
+            </p>
+
+            <p>
+            Based on the <a href="http://thecmb.org/">The cosmic microwave backround</a> website by <a href="http://dpgeorge.net">Damien George</a>.
+            </p>
+        </div>
+    </body>
+</html>
