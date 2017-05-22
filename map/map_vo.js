@@ -186,7 +186,7 @@ function initialize() {
 
 //	addOverlay('lwa38')
 //	addOverlay('lwa60')
-	addOverlay('lwa74')
+	addOverlay('AARTFAAF60')
 	addOverlay('nvss')
 	addOverlay('fermi4')
 
