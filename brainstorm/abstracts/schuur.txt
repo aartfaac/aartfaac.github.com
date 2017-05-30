@@ -1,8 +1,0 @@
-Title   : AARTFAAC front end, and potential hardware upgrade possibilities
-Abstract:
-
-During this talk I will present an overview of the current AARTFAAC Subband Data
-Offload system, which starts with LOFAR  and its ring interface that carries the
-subband data we use. I'll also  discuss the (UniBoard) hardware and network that
-is used to interface  the LOFAR data to the AARTFAAC  correlator, and go through
-some upgrade options.

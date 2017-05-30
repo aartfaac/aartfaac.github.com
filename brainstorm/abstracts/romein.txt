@@ -1,8 +1,0 @@
-Title   : The AARTFAAC Correlator
-
-Abstract:
-
-In this talk, I will present the AARTFAAC GPU correlator.  I will explain how it
-is embedded  in the  rest of the  system, motivate design  choices, show  how it
-works internally, and show its performance characteristics.
-

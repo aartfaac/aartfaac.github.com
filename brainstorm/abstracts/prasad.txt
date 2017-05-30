@@ -1,8 +1,0 @@
-Title   : The Calibration and Imaging approach in AARTFAAC
-
-Abstract:
-
-We describe the approach developed  to carry out autonomous snapshot calibration
-in real  time with AARTFAAC for  generating confusion noise limited  images, and
-descibe its  performance under various  conditions. We quantify  the performance
-achieved with various imaging parameters.
